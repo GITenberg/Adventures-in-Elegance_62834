@@ -1,11 +1,16 @@
 _repo: Adventures-in-Elegance_62834
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62834-h/images/cover.jpg
 creator:
   author:
     agent_name: Pie Filling Institute
     gutenberg_agent_id: '52120'
     url: http://www.gutenberg.org/2009/agents/52120
 description: Recipes incorporating canned fruit pie fillings.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62834#Adventures-in-Elegance
 gutenberg_issued: '2020-08-03'
 gutenberg_type: Text
 identifiers:
